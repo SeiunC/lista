@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1,FOX SPORTS 2
-https://dtvott-cbc.akamaized.net/dash_live_1122/dash/1122_FOX_SPORTS_2_SUR-audio_122082_spa=121600.dash
+https://1057-vos.dtvott.com/DASH/stream_08/1689834798488_init.m4i
 
 #EXTINF:-1,FOX SPORTS 1
 https://1118-vos.dtvott.com/DASH/stream_06/1689834732687_init.m4i
