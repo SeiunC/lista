@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1,FOX SPORTS 2
-https://1057-vos.dtvott.com/DASH/stream_08/1689834798488_init.m4i
+#EXTINF:-1,Tigo Sport 1
+http://factoryplay.online:8080/59EwizGaW23/andre23wiz593/384275
 
-#EXTINF:-1,FOX SPORTS 1
-https://1118-vos.dtvott.com/DASH/stream_06/1689834732687_init.m4i
+#EXTINF:-1,Tigo Sport 2
+http://factoryplay.online:8080/59EwizGaW23/andre23wiz593/384276
 
-#EXTINF:-1,FOX SPORTS 3
-https://dtvott-cbc.akamaized.net/dash_live_1123/dash/1123_FOX_SPORTS_3-video=3930000.dash
+#EXTINF:-1,Tigo Sport 3
+http://factoryplay.online:8080/59EwizGaW23/andre23wiz593/384277
