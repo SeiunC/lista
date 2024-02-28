@@ -42,4 +42,7 @@ http://restreamus.com:8080/Johannmendoza2023/7BZKWZEvr3H6/218714
 #EXTINF:-1 tvg-id="FOX SPORTS 3 | SUR ᴴᴰ 
 http://nxt.plus:8080/olmos/1234guz/24405 
 
+#EXTINF:-1 tvg-id=ESPN 45
+http://restreamus.com:8080/Johannmendoza2023/7BZKWZEvr3H6/218713
+
 #EXTINF:-1 tvg-id="ESPN.co" tvg-name="ESPN 1 | CO" tvg-logo=" https:// raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-co." group-title="⚽ TNT SPORTS",TNT SPORTS 3 (CL) http://nxt.plus:8080/olmos/1234guz/8 #EXTINF:-1 tvg-id="TNT Sport 2" tvg-name= "TNT SPORTS 2 (CL)" tvg-logo=" https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-2-cl.png " group-title=" ⚽ TNT SPORTS",TNT SPORTS 2 (CL) http://nxt.plus:8080/olmos/1234guz/7 #EXTINF:-1 tvg-id="CDOBasico.cl" tvg-name="CDO BASICO" tvg- logo=" https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/cdo-basico.png " group-title="⚽
