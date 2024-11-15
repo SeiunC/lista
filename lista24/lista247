@@ -104,3 +104,6 @@ http://daleplay.club:80/play/pEm94XDgUQHdiqV2JCFNtwyE09tgL3aVR1EM8SJQthbv28jfcR7
 
 #EXTINF:-1,bol vs col
 https://bwfrzq.la10tv.com/lb/caracol/index.m3u8?token=3fe02d7a9512969ee9b0d325492b79a2d59ed0f0-4d-1728631950-1728595950&remote=189.28.73.81
+
+#EXTINF:-1,bol vs ecua
+https://cdn9.en-vivo.info:443/eventos/tracks-v1a1/mono.m3u8?remote=189.28.73.136&token=d63a45af85a911ab257176d04f70c803adeb2f12-cd8a76e8f5a7fc85d9bc3204f303523e-1731639349-1731628549
