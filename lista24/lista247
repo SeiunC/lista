@@ -110,3 +110,6 @@ https://cdn9.en-vivo.info:443/eventos/tracks-v1a1/mono.m3u8?remote=189.28.73.136
 
 #EXTINF:-1,Disney plus ESPN
 https://vadp.pricesaskeloadsc.com:443/starplus01/tracks-v1a1/mono.m3u8?token=d80e4527cb3c2f49b8c0a6344cd81a4542ea1cde-5b-1731664380-1731628380
+
+#EXTINF:-1,Deadpool y Wolverine
+http://tvlatino.club:2082/movie/YKb44BNfjaAg/Z6GRGPUMT3R4/482277.mkv
