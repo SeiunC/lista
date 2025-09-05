@@ -113,3 +113,6 @@ https://wp9xqedt.fubohd.com/movistar_eventos/mono.m3u8?token=797f6811b2148e41e64
 
 #EXTINF:-1,bol vs col
 https://hbrou.envivotv.live/eventos/tracks-v1a1/mono.m3u8?remote=189.28.73.119&token=cdd062f0dc275d7f0ea79e10d94cf7acae6f21d1-451e37c90d7c3bef34880acb5db6b31f-1757039562-1757028762
+
+#EXTINF:-1, bvc
+https://d7.merichunidya.com:1686/hls/winlive.m3u8?md5=0ERYCaaGOT8CQz1Lpeo2hA&expires=1757037051
