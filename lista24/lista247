@@ -119,3 +119,6 @@ https://d7.merichunidya.com:1686/hls/winlive.m3u8?md5=0ERYCaaGOT8CQz1Lpeo2hA&exp
 
 #EXTINF:-1, bvc2
 https://ym9yzq.fubohd.com/movistar_eventos/mono.m3u8?token=cc7db67966539f9b2dd02eeb33576e7972e063d4-a8-1757048069-1757030069
+
+#EXTINF:-1, bvc3
+https://rm8zcvk3.fubohd.com/movistar_eventos/mono.m3u8?token=1eb09d03a14f46df6279666df86d58f09fde1df3-73-1757049018-1757031018
