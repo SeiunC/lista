@@ -116,3 +116,6 @@ https://hbrou.envivotv.live/eventos/tracks-v1a1/mono.m3u8?remote=189.28.73.119&t
 
 #EXTINF:-1, bvc
 https://d7.merichunidya.com:1686/hls/winlive.m3u8?md5=0ERYCaaGOT8CQz1Lpeo2hA&expires=1757037051
+
+#EXTINF:-1, bvc2
+https://ym9yzq.fubohd.com/movistar_eventos/mono.m3u8?token=cc7db67966539f9b2dd02eeb33576e7972e063d4-a8-1757048069-1757030069
