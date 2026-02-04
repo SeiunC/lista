@@ -119,3 +119,6 @@ http://192.168.0.18:8079/stream
 
 #EXTINF:-1, fox sport strong vs
 https://ub2dr.envivoslatam.org/foxsports/tracks-v1a1/mono.m3u8?ip=189.28.73.123&token=3835746a9ea002c8d3362fc5f897e275afcce771-e5-1770206520-1770152520
+
+#EXTINF:-1, espn strong vs
+https://rci1w.envivoslatam.org/espn/tracks-v1a1/mono.m3u8?ip=189.28.73.123&token=85629074e9a5a655fb09349006c1acb24e8758d9-30-1770206150-1770152150
