@@ -123,5 +123,5 @@ https://ub2dr.envivoslatam.org/foxsports/tracks-v1a1/mono.m3u8?ip=189.28.73.123&
 #EXTINF:-1, espn strong vs
 https://mze7u.envivoslatam.org/hotflix/espn/index.m3u8?token=4a0196edc97937318f3e9bbe8d7840de4c46d589-1c-1770814677-1770760677&ip=189.28.73.132
 
-#EXTINF:-1, the strong vs boli
-https://1.fltvhd.com/even1/mono.m3u8?token=aba35ba03f5d52215f6c9e704446471ebfde23d6-d5-1770438492-1770420492
+#EXTINF:-1, PLUTO TV
+https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/4c9e648d2c2b070f43648ca5b231156f5858f019/tv/m3u/PlutoTV_tv_MX.m3u
