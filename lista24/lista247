@@ -120,8 +120,8 @@ http://192.168.0.18:8079/stream
 #EXTINF:-1, fox sport strong vs
 https://ub2dr.envivoslatam.org/foxsports/tracks-v1a1/mono.m3u8?ip=189.28.73.123&token=3835746a9ea002c8d3362fc5f897e275afcce771-e5-1770206520-1770152520
 
-#EXTINF:-1, espn strong vs
-https://mze7u.envivoslatam.org/hotflix/espn/index.m3u8?token=4a0196edc97937318f3e9bbe8d7840de4c46d589-1c-1770814677-1770760677&ip=189.28.73.132
+#EXTINF:-1, espn nacional vs botafogo
+https://ub2dr.envivoslatam.org/disney4/index.m3u8?token=5b1ffd06512c7f37c05e46d618186100214270a1-93-1771508616-1771454616&ip=189.28.73.182
 
 #EXTINF:-1, PLUTO TV
 https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/4c9e648d2c2b070f43648ca5b231156f5858f019/tv/m3u/PlutoTV_tv_MX.m3u
