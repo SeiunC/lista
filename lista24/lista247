@@ -125,3 +125,6 @@ https://qbk4f.envivoslatam.org/espn5/tracks-v1a1/mono.m3u8?ip=189.28.73.134&toke
 
 #EXTINF:-1, PLUTO TV
 https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/4c9e648d2c2b070f43648ca5b231156f5858f019/tv/m3u/PlutoTV_tv_MX.m3u
+
+#EXTINF:-1, bloo vs river
+https://wf6kt.envivoslatam.org/dsports/tracks-v1a1/mono.m3u8?ip=189.28.73.157&token=3aa695075e9ca99dc27bd7bcb891f21b30ce3992-ec-1775743256-1775689256
