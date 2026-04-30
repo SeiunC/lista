@@ -126,5 +126,5 @@ https://qbk4f.envivoslatam.org/espn5/tracks-v1a1/mono.m3u8?ip=189.28.73.134&toke
 #EXTINF:-1, PLUTO TV
 https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/4c9e648d2c2b070f43648ca5b231156f5858f019/tv/m3u/PlutoTV_tv_MX.m3u
 
-#EXTINF:-1, bol vs arg
-https://dtkb.envivoslatam.org/espn7/tracks-v1a1/mono.m3u8?ip=189.28.73.157&token=d75252518885577be7cebdb30f22a312e5c51e73-a1-1776258913-1776204913
+#EXTINF:-1, bol vs flu
+https://plts2.envivoslatam.org/espn5/tracks-v1a1/mono.m3u8?ip=189.28.73.190&token=c688ae5f579c6d5aa2925890516daed43fe37c58-b1-1777632479-1777578479
